@@ -25,6 +25,7 @@
     "cors-anywhere": "^0.4.1",
     "openweather-apis": "^3.3.5",
     "rxjs": "~6.2.0",
+    "webpack-dev-server": "^3.2.1",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
